@@ -1,1 +1,1 @@
-# stick-notes
+# sticky-notes
